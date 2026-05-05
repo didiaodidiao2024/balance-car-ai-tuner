@@ -1,0 +1,15 @@
+{
+  "api_key": "YOUR_DEEPSEEK_API_KEY",
+  "api_url": "https://api.deepseek.com/chat/completions",
+  "kp": 23.0,
+  "ki": 0.0,
+  "kd": 1.39,
+  "spd_kp": 0.42,
+  "spd_ki": 0.0,
+  "spd_kd": 0.0,
+  "offset": 0.0,
+  "tcp_ip": "",
+  "tcp_port": 8888,
+  "pos_gain": 0.3,
+  "diff_kp": 5.0
+}
